@@ -18,6 +18,7 @@ frontend_react/build
 
 # misc
 frontend_react/.DS_Store
+frontend_react/.env
 frontend_react/.env.local
 frontend_react/.env.development.local
 frontend_react/.env.test.local
